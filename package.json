@@ -1,0 +1,22 @@
+{
+  "name": "javascript-quiz-main",
+  "version": "1.0.0",
+  "description": "# This is my Javascript code challenge",
+  "main": "1.1.js",
+  "scripts": {
+    "one": "node ./1.1.js",
+    "two": "node ./1.2.js",
+    "three": "node ./1.3.js",
+    "four": "node ./14.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojirzg/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojirzg/test/issues"
+  },
+  "homepage": "https://github.com/mojirzg/test#readme"
+}
